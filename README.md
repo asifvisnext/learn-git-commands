@@ -1,6 +1,5 @@
 # Git Commands
-
-- git clone
+- git clone *
 - git status
 - git add
 - git commit
