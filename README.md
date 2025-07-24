@@ -6,5 +6,5 @@
 - git push *
 - git branch *
 - git checkout *
-- git merge
+- git merge *
  
